@@ -6,7 +6,7 @@ export default function todos(props) {
         backgroundColor: "#f5f5f7",
         padding: "5px",
         borderRadius: "10px",
-        minHeight: "40vh",
+        minHeight: "51vh",
         border: "0.01px dashed grey"
     }
   return (
